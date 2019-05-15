@@ -42,9 +42,7 @@ public class MainActivity extends AppCompatActivity{
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-      //  mTextMessage = (TextView) findViewById(R.id.message);
-       // BottomNavigationView navigation = (BottomNavigationView) findViewById(R.id.navigation);
-      //  navigation.setOnNavigationItemSelectedListener(mOnNavigationItemSelectedListener);
+      
         mButton = findViewById(R.id.button);
 
         mButton.setOnClickListener(new View.OnClickListener() {
