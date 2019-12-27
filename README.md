@@ -8,15 +8,15 @@ I am determined to work on it more to reduce the loading time.
 ScreenShot at the beginning:
 
 
-![Alt text](https://github.com/talha3111997/Android-Dictionary-App/blob/master/dict2.jpeg?raw=true "Proteus Simulation Screenshot")
+![Alt text](https://github.com/talha3111997/Android-Dictionary-App/blob/master/dict2.jpeg?raw=true "Main page of dictionary")
 
 ScreenShot when word is found: 
 
 
-![Alt text](https://github.com/talha3111997/Android-Dictionary-App/blob/master/dict.jpeg?raw=true "Proteus Simulation Screenshot")
+![Alt text](https://github.com/talha3111997/Android-Dictionary-App/blob/master/dict.jpeg?raw=true "view when word is found")
 
 
 ScreenShot when word is not present:
 
-![Alt text](https://github.com/talha3111997/Android-Dictionary-App/blob/master/dict3.jpeg?raw=true "Proteus Simulation Screenshot")
+![Alt text](https://github.com/talha3111997/Android-Dictionary-App/blob/master/dict3.jpeg?raw=true "view when word is not found")
 
